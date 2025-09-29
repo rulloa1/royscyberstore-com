@@ -1,0 +1,12 @@
+{
+  "args": {}, 
+  "headers": {
+    "Accept": "*/*", 
+    "Accept-Encoding": "identity", 
+    "Host": "httpbin.org", 
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; rv:91.0) Gecko/20100101 Firefox/91.0", 
+    "X-Amzn-Trace-Id": "Root=1-68bb72eb-49b8febd567e20f03860d069"
+  }, 
+  "origin": "23.124.88.252", 
+  "url": "http://httpbin.org/get"
+}
